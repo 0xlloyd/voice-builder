@@ -31,7 +31,7 @@ Aim for roughly 1,500 words of the user's own language across at least three sit
 Once the raw material is in, run a short round of quick tests to catch what free talk misses.
 Offer pairs of phrasings that mean the same thing (such as "keep a record" and "keep the receipts") and ask which one they'd actually say, or what they'd say instead, because people pick far more accurately than they describe.
 Ask how they'd word a few everyday moments the material didn't cover, choosing ones that fit their real role and life (such as chasing a reply, saying no to a request or saying thanks), asking them in a separate message from the phrasing pairs so they don't get skipped, and keep their answers word for word.
-Show them a short list of common AI phrases (such as "let's dive in", "game-changer", "delve", "unlock", "robust", "in today's fast-paced world", "it's not just X, it's Y" and heavy use of em dashes) and ask which ones make them cringe, so the never-say list reflects their taste rather than a generic ban list.
+Show them the common AI words, phrases and habits in `references/ai-tells.md` (such as "let's dive in", "game-changer", "delve", "unlock", "robust", "in today's fast-paced world", "it's not just X, it's Y" and heavy use of em dashes) and ask which ones make them cringe, so the never-say list reflects their taste rather than a generic ban list.
 Check whether anything shifts when they write rather than talk (swearing, emoji, length, formality) by stating your own read from what they've shared and asking them to confirm or correct it, since an open question here is easy to skip, so the single blended voice still respects the lines they won't cross in writing.
 
 ## Analyse
@@ -46,7 +46,7 @@ Play back the top ten or so findings as a short list with their quotes, and let 
 ## Test
 
 Write three short pieces in the user's voice, each retelling the topic of one of their real excerpts from a plain summary of what they said rather than their own words, so the user has to judge by voice and not by recognising the story.
-Mix them unlabelled and in random order with two or three short excerpts of the user's own, and ask them to pick out which are really theirs, because only the user can judge their own voice, while an LLM checking its own output just rewards the traits it already extracted.
+Mix them unlabelled and in random order with the three real excerpts they retell, and ask the user to pick out which are really theirs, because only the user can judge their own voice, while an LLM checking its own output just rewards the traits it already extracted.
 For every generated piece they spot, ask what gave it away, and turn the answer into a rule edit, a new lexicon entry or a never-say item.
 Run up to two rounds, stopping early once the user can't reliably tell the generated pieces from their own or says they'd send them as they are.
 
