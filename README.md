@@ -1,6 +1,6 @@
 # voice-builder
 
-A Claude skill that builds you a personal voice skill, so your AI writes and talks like you rather than like a chatbot.
+An agent skill that builds you a personal voice skill, so your AI writes and talks like you rather than like a chatbot. It uses the open `SKILL.md` format, so it works with Claude and any other assistant or agent that loads skills.
 
 It works even if you rarely write. Most of the material comes from a short, conversational interview (about 30 minutes, mostly talking), plus any messages or voice notes you already have.
 
@@ -14,7 +14,7 @@ It works even if you rarely write. Most of the material comes from a short, conv
 
 ## Install
 
-Add `SKILL.md` as a skill in Claude (or drop the folder into your skills directory), then say something like "build my voice" or "make my AI sound like me".
+Add the whole folder (`SKILL.md` plus `templates/`, `references/` and `scripts/`) to your assistant's skills, for example by uploading it as a zip or dropping it into your skills directory. Then say something like "build my voice" or "make my AI sound like me". If your tool only takes a single `SKILL.md`, it still runs and improvises the missing files.
 
 ## Notes
 
